@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BatteryWidget</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="batteryStatus">电池状态:</string>
+    <string name="batteryPlug">电池插头:</string>
+    <string name="batteryLevel">电池电量:</string>
+    <string name="batteryHealth">电池健康:</string>
+    <string name="batteryTemperature">电池温度:</string>
+    <string name="batteryVoltage">电池电压:</string>
+    
+    <string name="Unknown">Unknown</string>
+    <string name="batteryStatusCharging">正在充电</string>
+    <string name="batteryStatusDischarging">正在放电</string>
+    <string name="batteryStatusFull">已充满</string>
+    <string name="batteryStatusNotCharging">未在充电</string>
+    <string name="batteryStatusUnknown">状态未知</string>
+    
+    <string name="batteryPluggedAC">(AC)</string>
+    <string name="batteryPluggedUSB">(USB)</string>
+    <string name="batteryPlugNone">Not plugged</string>
+    
+    <string name="batteryHealthCold">过冷</string>
+    <string name="batteryHealthDead">损坏</string>
+    <string name="batteryHealthGood">良好</string>
+    <string name="batteryHealthOverheat">过热</string>
+    <string name="batteryHealthOverVoltage">过压</string>
+    <string name="batteryHealthUnknown">未知</string>
+    <string name="batteryHealthUnspecifiedFailure">未知的故障</string>
+    
+    <string name="batteryLevelSymbol">%</string>
+    <string name="batteryVoltSymbol"> mV</string>
+    <string name="batteryCelsiusSymbol">\u00B0 C</string>
+    <string name="batteryFahrenheitSymbol">\u00B0 F</string>
+    <string name="battery_broadcast_receiver">Battery Broadcast Receiver</string>
+    <string name="textStatus">Status: </string>
+
+</resources>
